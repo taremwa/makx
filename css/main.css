@@ -1,0 +1,35 @@
+body{background-color: rgb(255, 255, 255);}
+
+/*---------nav-elements--------*/
+.nav {background-color: rgb(53, 52, 52); text-align: center; 
+        opacity: 0.9}
+ul li{ padding: 0px 60px;}
+ul li a{color: azure; font-weight: bold;
+    font-size: 18px;}
+ul li a:hover{color: rgb(52, 84, 116);}
+
+/*-----image-content-----*/
+#push{margin-top: 58px;}
+#surf{z-index: -1; position: relative;}
+#conq{z-index: 1; position: absolute;
+    left: 0px; top: 0px; margin: 250px 350px; color: azure;}
+h1{font-family: Courier New, Courier, monospace;font-size: 100px;}
+.p1{font-family: Courier New, Courier, monospace;font-size: 20px;
+    padding-top: 30px; padding-left: 55px;}
+
+/*------ad-card-content------*/
+p{font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-weight: lighter;}
+
+/*-----img row-content----*/
+.card{border: none;}
+
+/*----footer------*/
+h4{color: grey; font-size: 27px;}
+h6{text-align: center;font-style: italic;font-size: 25px;
+    padding-top: 15px; color: gray;}
+.pf{text-align: center; font-style: italic; color: gray; font-size: 14px;
+    padding-top: 22px 0px;}
+.fp{color: rgb(114, 101, 101); font-size: 12px;}
+hr{margin-bottom: 4px;}
+
